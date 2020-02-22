@@ -1,3 +1,3 @@
 # hello-world
 hello world respository
-input ("what is your first name?")
+input ("what is your  name?")
